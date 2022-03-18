@@ -1,1 +1,4 @@
-This is an empty file 
+This is an empty file
+
+
+Added a new line to the file
